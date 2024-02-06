@@ -1,3 +1,10 @@
+https://semutaspal.com/translate-bahasa-jawa/
+https://semutaspal.com/translate-bahasa-bali/
+https://semutaspal.com/translate-bahasa-sunda/
+https://semutaspal.com/translate-aksara-jawa/
+https://semutaspal.com/translate-aksara-bali/
+https://semutaspal.com/translate-aksara-sunda/
+
 Usage
 =====
 
@@ -31,5 +38,3 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
-
-https://semutaspal.com/translate-bahasa-jawa/
