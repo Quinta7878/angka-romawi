@@ -33,3 +33,8 @@ For example:
 ['shells', 'gorgonzola', 'parsley']
 
 https://semutaspal.com/translate-bahasa-jawa/
+https://semutaspal.com/translate-bahasa-bali/
+https://semutaspal.com/translate-bahasa-sunda/
+https://semutaspal.com/translate-aksara-jawa/
+https://semutaspal.com/translate-aksara-bali/
+https://semutaspal.com/translate-aksara-sunda/
